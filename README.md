@@ -21,13 +21,7 @@
    <a href="https://www.linkedin.com/in/vanderleisoaresoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  
-<div style="display: inline_block"><br>
- <img height="180em" src="https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
- <img height="180em" src="https://github.com/vn7n24fzkq/github-profile-summary-cards"/>  
-  
-</div>
-
+   
 
 [![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
