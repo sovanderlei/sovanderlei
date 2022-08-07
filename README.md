@@ -17,13 +17,13 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    
 </div> 
-<div>  
+<div style="display: inline_block"><br>  
    <a href="https://www.linkedin.com/in/vanderleisoaresoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
   
-<div>
-
+<div style="display: inline_block"><br>
+ <img height="180em" src="https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
   
   
 </div>
