@@ -3,6 +3,7 @@
   <a href="https://github.com/sovanderlei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sovanderlei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovanderlei&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
@@ -22,7 +23,7 @@
 </div>
   
 <div>
-[![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  
+  
 </div>
