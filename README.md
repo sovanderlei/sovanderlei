@@ -1,6 +1,7 @@
 ## Hello, I am Vanderlei Soares de Oliveira, software engineer!
 <div style="display: inline_block"> 
    <a href="https://www.linkedin.com/in/vanderleisoaresoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+https://sovanderlei.github.io/vandcurriculum/
 </div>
 
 <div style="display: inline_block"><br>
